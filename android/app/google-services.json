@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1003125851907",
+    "project_id": "appmusic-e0600",
+    "storage_bucket": "appmusic-e0600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003125851907:android:e58e3314d535f4b3f64b36",
+        "android_client_info": {
+          "package_name": "com.example.appmuisc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003125851907-js36nqfe6s2nj1qumrb5f7fgkneaamer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCou4l3bOJJlsjgvg1CvyOSx1-wyZftllg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003125851907-js36nqfe6s2nj1qumrb5f7fgkneaamer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003125851907:android:31028cf87e7e30e0f64b36",
+        "android_client_info": {
+          "package_name": "com.example.loginmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003125851907-js36nqfe6s2nj1qumrb5f7fgkneaamer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCou4l3bOJJlsjgvg1CvyOSx1-wyZftllg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003125851907-js36nqfe6s2nj1qumrb5f7fgkneaamer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
